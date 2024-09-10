@@ -6,6 +6,4 @@ you can contact me on Twitter and any emails published in my ORCID public record
 
 ------------------
 ### Listening To... 🎧
-<a href="https://githubreadmespotify.vercel.app/now-playing?open">
-    <img src="https://githubreadmespotify.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+[![Spotify](https://githubreadmespotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31sctmgl6bpjboi7cg54pgn7lr54)
